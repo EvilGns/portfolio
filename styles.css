@@ -63,6 +63,7 @@ html{
 }
 
 .navbar .menu li a {
+	display: block;
 	text-decoration: none;
 	color: white;
 	font-size: 21px;
